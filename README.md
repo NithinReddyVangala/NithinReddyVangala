@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NithinReddyVangala
 - 👀 I’m interested in ... Analytics
-- 🌱 I’m currently learning ... Pyhton and PowerBI
+- 🌱 I’m currently learning ... Python and PowerBI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
